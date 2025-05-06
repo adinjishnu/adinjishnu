@@ -7,11 +7,9 @@
 
 - 🌱 I recently completed my B. Tech in **Electronics and Communication Engineering**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1lUig6jGd78J5mjwBaQB70N128cCMeC7x?usp=drive_link](https://drive.google.com/drive/folders/1lUig6jGd78J5mjwBaQB70N128cCMeC7x?usp=drive_link)
-
 - 📫 How to reach me **adin.jishnu@gmail.com**
 
-- 📄 Know more about me [https://drive.google.com/file/d/1cU_bGlAEr3NWYyLmN6h67eMDrNCDUbYU/view?usp=drive_link](https://drive.google.com/file/d/1cU_bGlAEr3NWYyLmN6h67eMDrNCDUbYU/view?usp=drive_link)
+- 📄 Know more about me [Click here](https://drive.google.com/file/d/1cU_bGlAEr3NWYyLmN6h67eMDrNCDUbYU/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
 
 - How to reach me **adin.jishnu@gmail.com**
 
-- Know more about me [Click here]([https://drive.google.com/file/d/1cU_bGlAEr3NWYyLmN6h67eMDrNCDUbYU/view?usp=drive_link](https://drive.google.com/file/d/1gYztU1FjCAWOE6MO3lhmLpqOO4o-AumE/view?usp=drive_link))
+- Know more about me [Click here](https://drive.google.com/file/d/1gYztU1FjCAWOE6MO3lhmLpqOO4o-AumE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

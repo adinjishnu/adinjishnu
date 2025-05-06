@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Adin Jishnu M</h1>
+<h1 align="center">Hi, I'm Adin Jishnu M</h1>
 <h3 align="center">A passionate Electronics Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adinjishnu&label=Profile%20views&color=0e75b6&style=flat" alt="adinjishnu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adinjishnu" alt="adinjishnu" /></a> </p>
 
-- 🌱 I recently completed my B. Tech in **Electronics and Communication Engineering**
+- I recently completed my B. Tech in **Electronics and Communication Engineering**
 
-- 📫 How to reach me **adin.jishnu@gmail.com**
+- How to reach me **adin.jishnu@gmail.com**
 
-- 📄 Know more about me [Click here](https://drive.google.com/file/d/1cU_bGlAEr3NWYyLmN6h67eMDrNCDUbYU/view?usp=drive_link)
+- Know more about me [Click here]([https://drive.google.com/file/d/1cU_bGlAEr3NWYyLmN6h67eMDrNCDUbYU/view?usp=drive_link](https://drive.google.com/file/d/1gYztU1FjCAWOE6MO3lhmLpqOO4o-AumE/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
